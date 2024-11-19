@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ashbeth Travels</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="canonical" href="https://www.ashbethtravels.com/">
+</head>
+<body>
+    <header>
+        <h1>Welcome to Ashbeth Travels</h1>
+        <nav>
+            <ul>
+                <li><a href="https://www.ashbethtravels.com/#home">Home</a></li>
+                <li><a href="https://www.ashbethtravels.com/#packages">Travel Packages</a></li>
+                <li><a href="https://www.ashbethtravels.com/#contact">Contact Us</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="home">
+            <h2>Explore the World with Us</h2>
+            <p>Your adventure starts here. Discover amazing travel packages tailored just for you.</p>
+        </section>
+        <section id="packages">
+            <h2>Our Travel Packages</h2>
+            <div class="package">
+                <h3>Beach Paradise</h3>
+                <p>Enjoy a week-long stay at a beautiful beach resort. Includes flights, accommodation, and meals.</p>
+            </div>
+            <div class="package">
+                <h3>Mountain Adventure</h3>
+                <p>Experience the thrill of mountain climbing and hiking. Includes guided tours and camping gear.</p>
+            </div>
+            <div class="package">
+                <h3>City Escape</h3>
+                <p>Explore the vibrant life of a bustling city. Includes city tours, hotel stay, and breakfast.</p>
+            </div>
+        </section>
+        <section id="contact">
+            <h2>Contact Us</h2>
+            <p>Email: info@ashbethtravels.com</p>
+            <p>Phone: +123 456 7890</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2023 Ashbeth Travels. All rights reserved.</p>
+    </footer>
+    <script src="scripts.js"></script>
+</body>
+</html>
